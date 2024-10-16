@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustard4868&label=Profile%20views&color=0e75b6&style=flat" alt="mustard4868" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mstrd.eu/#projects](https://mstrd.eu/#projects)
+- 👨‍💻 All of my projects are available at https://www.mstrd.eu/
 
 - 📫 How to reach me **info@mstrd.eu**
 
