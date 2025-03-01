@@ -14,7 +14,7 @@ In my free time, I enjoy customizing my Linux setup and creating scripts to stre
 A short summation of the languages I've used.\
 Python, Kotlin, C & C++, Shell, ST (PLC), HTML & CSS
 
-## 🩵 Miscelanious
+## 🩵 Miscellaneous
 My interest in programming started when I first worked with a PLC—I was fascinated by how a small piece of code could control an entire production line.
 Since I didn’t have a factory at home, I began experimenting by building a Discord bot.
 Now, as an Electrical Engineering student, I have even more opportunities to apply my skills and expand my knowledge.
