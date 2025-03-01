@@ -5,6 +5,7 @@ In my free time, I enjoy customizing my Linux setup and creating scripts to stre
 
 ## 🩷 My stats
 ![Nynke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustard4868&show_icons=true&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/Mustard4868/Mustard4868/main/neko-sip.png" width="150" alt="Cat taking a sippy sticker">
 
 ## 🤍 How to contact me
 * Discord:  i.mustard
