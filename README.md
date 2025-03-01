@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🩵 Hi there! I'm Nynke (She/Her)
+I'm an Electrical Engineering student with a background in Mechatronics, with a growing interest in IT and Computer Science.
+Throughout my studies, I’ve worked on various programming projects, including developing a line-tracking robot using MicroPython and setting up a private network with a custom VoIP service.
+In my free time, I enjoy customizing my Linux setup and creating scripts to streamline everyday tasks.
 
-<!--
-**Mustard4868/Mustard4868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🩷 My stats
+![Nynke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustard4868&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## 🤍 How to contact me
+* Discord:  i.mustard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🩷 My experience
+A short summation of the languages I've used.\
+Python, Kotlin, C & C++, Shell, ST (PLC), HTML & CSS
+
+## 🩵 Miscelanious
+My interest in programming started when I first worked with a PLC—I was fascinated by how a small piece of code could control an entire production line.
+Since I didn’t have a factory at home, I began experimenting by building a Discord bot.
+Now, as an Electrical Engineering student, I have even more opportunities to apply my skills and expand my knowledge.
