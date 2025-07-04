@@ -1,5 +1,5 @@
 ## 🩵 Hi there! I'm Nynke (She/Her)
-I'm an Electrical Engineering student with a background in Mechatronics, with a growing interest in IT and Computer Science.
+I'm an Electrical Engineering student with a background in Mechatronics, with a growing interest in IT and Computer Science. I also happen to have a knack for Robotics and Automation.
 Throughout my studies, I’ve worked on various programming projects, including developing a line-tracking robot using MicroPython and setting up a private network with a custom VoIP service.
 In my free time, I enjoy customizing my Linux setup and creating scripts to streamline everyday tasks.
 
@@ -8,7 +8,8 @@ In my free time, I enjoy customizing my Linux setup and creating scripts to stre
 <img src="https://raw.githubusercontent.com/Mustard4868/Mustard4868/main/neko-sip.png" width="150" alt="Cat taking a sippy sticker">
 
 ## 🤍 How to contact me
-* Discord:  i.mustard
+* Discord: i.mustard
+* Matrix: @nynke:matrix.org
 
 ## 🩷 My experience
 <div align="left">
