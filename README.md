@@ -8,7 +8,7 @@ In my free time, I enjoy customizing my Linux setup and creating scripts to stre
 <img src="https://raw.githubusercontent.com/Mustard4868/Mustard4868/main/neko-sip.png" width="150" alt="Cat taking a sippy sticker">
 
 ## 🤍 How to contact me
-* Discord: i.mustard
+* Discord: nynke.me
 * Matrix: @nynke:matrix.org
 
 ## 🩷 My experience
